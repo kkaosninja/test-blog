@@ -202,7 +202,7 @@ Subrion login creds
 ## Subrion Admin Portal Enum
 
 After login.
-![](attachments/Pasted%20image%2020221104194454.png)
+![](/img/pasted_image_20221104194454.png)
 
 Subrion Version 4.2.1 is installed. Searching for anything regarding this version on ExploitDB, we get https://www.exploit-db.com/exploits/49876. An arbitrary file upload exploit.
 

@@ -6,13 +6,13 @@
 export default {
   "title": "My Site",
   "tagline": "Dinosaurs are cool",
-  "url": "https://your-docusaurus-test-site.com",
+  "url": "https://sparkling-empanada.netlify.app",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "kkaosninja",
+  "projectName": "test-blog",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -59,7 +59,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/kkaosninja/test-blog",
           "label": "GitHub",
           "position": "right"
         }

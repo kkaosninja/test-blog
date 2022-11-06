@@ -65,8 +65,8 @@
                 "permalink": "/docs/tutorial-basics/deploy-your-site"
               },
               "next": {
-                "title": "Tutorial - Extras",
-                "permalink": "/docs/category/tutorial---extras"
+                "title": "THM-techsupp0rt1",
+                "permalink": "/docs/tutorial-basics/THM-techsupp0rt1"
               }
             },
             {
@@ -205,6 +205,33 @@
               }
             },
             {
+              "unversionedId": "tutorial-basics/THM-techsupp0rt1",
+              "id": "tutorial-basics/THM-techsupp0rt1",
+              "title": "THM-techsupp0rt1",
+              "description": "TryHackMe Page for the Machine => https://tryhackme.com/room/techsupp0rt1",
+              "source": "@site/docs/tutorial-basics/THM-techsupp0rt1.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/THM-techsupp0rt1",
+              "permalink": "/docs/tutorial-basics/THM-techsupp0rt1",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/THM-techsupp0rt1.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Congratulations!",
+                "permalink": "/docs/tutorial-basics/congratulations"
+              },
+              "next": {
+                "title": "Tutorial - Extras",
+                "permalink": "/docs/category/tutorial---extras"
+              }
+            },
+            {
               "unversionedId": "tutorial-extras/manage-docs-versions",
               "id": "tutorial-extras/manage-docs-versions",
               "title": "Manage Docs Versions",
@@ -291,6 +318,10 @@
                   {
                     "type": "doc",
                     "id": "tutorial-basics/congratulations"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/THM-techsupp0rt1"
                   }
                 ],
                 "link": {

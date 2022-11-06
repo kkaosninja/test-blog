@@ -46,6 +46,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "tutorial-basics/THM-techsupp0rt1",
+              "path": "/docs/tutorial-basics/THM-techsupp0rt1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "tutorial-extras/manage-docs-versions",
               "path": "/docs/tutorial-extras/manage-docs-versions",
               "sidebar": "tutorialSidebar"

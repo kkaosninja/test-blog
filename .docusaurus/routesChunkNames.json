@@ -186,7 +186,7 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-8c3": {
+  "/docs-f49": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-4-a-3-bb0"
@@ -228,6 +228,10 @@
   "/docs/tutorial-basics/markdown-features-4b7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
+  },
+  "/docs/tutorial-basics/THM-techsupp0rt1-6e6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-thm-techsupp-0-rt-1-cff-def"
   },
   "/docs/tutorial-extras/manage-docs-versions-fdd": {
     "__comp": "__comp---theme-doc-item-178-a40",

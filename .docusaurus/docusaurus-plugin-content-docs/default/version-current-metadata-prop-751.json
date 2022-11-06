@@ -56,6 +56,12 @@
             "label": "Congratulations!",
             "href": "/docs/tutorial-basics/congratulations",
             "docId": "tutorial-basics/congratulations"
+          },
+          {
+            "type": "link",
+            "label": "THM-techsupp0rt1",
+            "href": "/docs/tutorial-basics/THM-techsupp0rt1",
+            "docId": "tutorial-basics/THM-techsupp0rt1"
           }
         ],
         "href": "/docs/category/tutorial---basics"
@@ -124,6 +130,12 @@
       "id": "tutorial-basics/markdown-features",
       "title": "Markdown Features",
       "description": "Docusaurus supports Markdown and a few additional features.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/THM-techsupp0rt1": {
+      "id": "tutorial-basics/THM-techsupp0rt1",
+      "title": "THM-techsupp0rt1",
+      "description": "TryHackMe Page for the Machine => https://tryhackme.com/room/techsupp0rt1",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-extras/manage-docs-versions": {

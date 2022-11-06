@@ -99,7 +99,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '8c3'),
+    component: ComponentCreator('/docs', 'f49'),
     routes: [
       {
         path: '/docs/category/tutorial---basics',
@@ -152,6 +152,12 @@ export default [
       {
         path: '/docs/tutorial-basics/markdown-features',
         component: ComponentCreator('/docs/tutorial-basics/markdown-features', '4b7'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorial-basics/THM-techsupp0rt1',
+        component: ComponentCreator('/docs/tutorial-basics/THM-techsupp0rt1', '6e6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
